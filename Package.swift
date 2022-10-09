@@ -22,5 +22,5 @@ let package = Package(
             name: "Simple",
             dependencies: [],
             path: ".")
-    ]
+   ]
 )
