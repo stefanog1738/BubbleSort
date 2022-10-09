@@ -20,7 +20,6 @@ func swap(integers: inout [String], firstIndex:Int, secondIndex:Int) {
     integers[firstIndex] = integers[secondIndex]
     integers[secondIndex] = temp
 }
-
 func sort(_ array: [String]) -> [String] {
     var arr = array
     var pass = 0
